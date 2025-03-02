@@ -17,7 +17,7 @@
 
 ### 🔹 About Me
 - 🚀 Passionate **ERP Developer** specialized in **Odoo Development**
-- 🐍 Experienced in **Python**, **Django**, **Odoo**, and **Automation**
+- 🐍 Experienced in **Python**, **Flask**, **Odoo**, and **Automation**
 - ⚡ Building scalable and efficient business solutions
 - 💡 Always exploring new technologies to enhance ERP processes
 - 🎯 Strong problem-solving skills with an analytical mindset
