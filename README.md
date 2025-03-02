@@ -1,53 +1,54 @@
 <p align="center">
   <a href="https://your-portfolio-link">
-    <img src="https://your-chosen-image-link" alt="Header Image">
+    <img src="https://source.unsplash.com/1600x500/?technology,coding" alt="Ayaz Hasan - ERP Developer" />
   </a>
 </p>
 
 <h1 align="center">👋 Hi, I'm Ayaz Hasan</h1>
 <h3 align="center">ERP Developer | Python Enthusiast | Automation Specialist</h3>
 
+---
+
+## 🚀 About Me
+
+- 🏗️ **ERP Developer** with expertise in **Odoo & Business Automation**
+- 🐍 Passionate about **Python**, **Flask**, **API Development**, and **Data Processing**
+- ⚡ Focused on **Efficiency, Scalability, and Automation**
+- 📚 Constantly learning new technologies to optimize **ERP workflows**
+- 🎯 A problem solver with a **keen analytical mindset**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <a href="https://github.com/ayaz892">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayaz892&theme=onedark&no-frame=true&column=3" alt="GitHub Trophies" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,flask,odoo,selenium,docker,git,linux,azure,postgresql" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🔹 About Me
-- 🚀 Passionate **ERP Developer** specialized in **Odoo Development**
-- 🐍 Experienced in **Python**, **Flask**, **Odoo**, and **Automation**
-- ⚡ Building scalable and efficient business solutions
-- 💡 Always exploring new technologies to enhance ERP processes
-- 🎯 Strong problem-solving skills with an analytical mindset
-
----
-
-### 🔹 Tech Stack & Tools
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,odoo,selenium,git,docker,linux,azure" alt="Skills" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaz892&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaz892&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz892&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaz892&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaz892&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz892&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayaz892&theme=onedark&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayaz-hasan-43011322b/">
@@ -57,3 +58,15 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+## 📌 Fun Facts
+
+- 🕹️ Gamer at heart, always up for a challenge!
+- ☕ Runs on coffee and clean code
+- 📖 Loves exploring **new tech & automation tools**
+
+---
+
+### 🔥 Keep Coding, Keep Automating!
