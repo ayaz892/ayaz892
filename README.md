@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://your-portfolio-link">
-    <img src="https://source.unsplash.com/1600x500/?technology,coding" alt="Ayaz Hasan - ERP Developer" />
+    <img src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1740911411~exp=1740915011~hmac=3b6c30191e980c5db3c1e60f1366da643a3095a298fa00cddaf5dc96f5f3f673&w=1380" alt="Ayaz Hasan - ERP Developer" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,odoo,selenium,docker,git,linux,azure,postgresql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,flask,selenium,docker,git,linux,azure,postgresql" alt="Tech Stack" />
 </p>
 
 ---
