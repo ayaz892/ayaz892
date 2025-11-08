@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://your-portfolio-link">
+  <a href="/">
     <img src="https://www.freepik.com/free-vector/gradient-top-view-laptop-technology-background_4132603.htm#fromView=keyword&page=3&position=31&uuid=503de58c-a293-426a-a9e1-3b45a2b24da5&query=Programming+background+dark" alt="Ayaz Hasan - ERP Developer" />
   </a>
 </p>
