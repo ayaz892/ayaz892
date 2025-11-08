@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/2f7d79e745d3b1c2b2a8d0e0b145b63d.png?compress=1&resize=1000x750" alt="Dark Developer Illustration" width="80%">
+    <img src="https://plus.unsplash.com/premium_vector-1734405737827-1374f9f89818?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170" alt="Dark Developer Illustration" width="80%">
   </a>
 </p>
 
