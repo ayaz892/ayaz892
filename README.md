@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://your-portfolio-link">
-    <img src="[https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1740911411~exp=1740915011~hmac=3b6c30191e980c5db3c1e60f1366da643a3095a298fa00cddaf5dc96f5f3f673&w=1380](https://www.freepik.com/premium-vector/cyber-circuit-future-technology-concept-background-vector_23406430.htm#fromView=keyword&page=2&position=45&uuid=503de58c-a293-426a-a9e1-3b45a2b24da5&query=Programming+background+dark](https://www.freepik.com/premium-vector/cyber-circuit-future-technology-concept-background-vector_23406430.htm#fromView=keyword&page=2&position=45&uuid=503de58c-a293-426a-a9e1-3b45a2b24da5&query=Programming+background+dark)" alt="Ayaz Hasan - ERP Developer" />
+    <img src="https://www.freepik.com/free-vector/gradient-top-view-laptop-technology-background_4132603.htm#fromView=keyword&page=3&position=31&uuid=503de58c-a293-426a-a9e1-3b45a2b24da5&query=Programming+background+dark" alt="Ayaz Hasan - ERP Developer" />
   </a>
 </p>
 
