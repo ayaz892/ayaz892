@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="/">
-    <img src="https://www.freepik.com/free-vector/gradient-top-view-laptop-technology-background_4132603.htm#fromView=keyword&page=3&position=31&uuid=503de58c-a293-426a-a9e1-3b45a2b24da5&query=Programming+background+dark" alt="Ayaz Hasan - ERP Developer" />
+  <a href="#">
+    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=80" alt="Ayaz Hasan - ERP Developer" width="80%">
   </a>
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Ayaz Hasan</h1>
 <h3 align="center">ERP Developer | Python Enthusiast | Automation Specialist</h3>
