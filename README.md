@@ -1,8 +1,9 @@
 <p align="center">
   <a href="#">
-    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1000&q=80" alt="Ayaz Hasan - ERP Developer" width="80%">
+    <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/2f7d79e745d3b1c2b2a8d0e0b145b63d.png?compress=1&resize=1000x750" alt="Dark Developer Illustration" width="80%">
   </a>
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm Ayaz Hasan</h1>
